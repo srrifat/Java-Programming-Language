@@ -1,7 +1,7 @@
 public class characterPatttern {
 
     public static void main(String[] args) {
-        int n =4;
+        int n =10;
         char ch = 'A';
         
         //outer loop
