@@ -1,5 +1,3 @@
-import java.util.*;
-
 // Reverse an Array
 public class reverseArray {
 
