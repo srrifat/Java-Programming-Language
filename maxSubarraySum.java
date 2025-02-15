@@ -1,4 +1,4 @@
-public class maxSubarraySum {
+ public class maxSubarraySum {
     public static void printMaxSubarraySum(int numbers[]) {
          int currSum = 0;
          int maxSum = Integer.MIN_VALUE;
